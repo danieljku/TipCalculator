@@ -40,7 +40,7 @@ class ViewController: UIViewController {
             
             return
         }
-        
+        //Tip
         var tipPercent = 0.0
         
         switch tipSelector.selectedSegmentIndex{
